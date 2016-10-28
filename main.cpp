@@ -1,6 +1,5 @@
 #include <iostream>
 #include <thread>
-#include <sstream>
 
 void foo(int x)
 {
