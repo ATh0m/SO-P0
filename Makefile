@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall -Werror -Wextra -pedantic
+CXXFLAGS = -pthread -std=c++11 -Wall -Werror -Wextra -pedantic
 
 default: main
 
